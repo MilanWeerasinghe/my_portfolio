@@ -4,7 +4,7 @@ import About from './sections/main/AboutSection'
 import Projects from './sections/main/ProjectsSection'
 import ContactSection from './sections/main/ContactSection'
 import Resume from './Resume'
-import my_photo from '../assets/mine.JPG'
+import my_photo from '../assets/images/mine.JPG'
 import { useIsVisible } from '../hooks/UseIsVisible'
 
 const Content = () => {

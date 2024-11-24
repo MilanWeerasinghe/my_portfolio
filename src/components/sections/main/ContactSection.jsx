@@ -33,14 +33,14 @@ const ContactSection = () => {
                         type='text'
                         placeholder='first name'
                         name='user_fname'
-                        className='w-full h-12 bg-transparent outline-none border-2 rounded-md  pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400'
+                        className='w-full h-12 bg-transparent outline-none border-2 rounded-md  pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400 text-slate-200 placeholder:text-slate-400'
                     />
 
                     <input
                         type='text'
                         placeholder='last name'
                         name='user_lname'
-                        className='w-full h-12 bg-transparent outline-none border-2 rounded-md pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400'
+                        className='w-full h-12 bg-transparent outline-none border-2 rounded-md pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400 text-slate-200 placeholder:text-slate-400'
                     />
                 </div>
                 <div>
@@ -48,7 +48,7 @@ const ContactSection = () => {
                         type='email'
                         placeholder='Email address'
                         name='user_email'
-                        className='w-full h-12 bg-transparent outline-none border-2 rounded-md pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400'
+                        className='w-full h-12 bg-transparent outline-none border-2 rounded-md pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400 text-slate-200 placeholder:text-slate-400'
                     />
                 </div>
                 <div className=''>
@@ -56,7 +56,7 @@ const ContactSection = () => {
                         name='message'
                         type='text'
                         placeholder='Message'
-                        className='w-full h-32 bg-transparent outline-none border-2 rounded-md pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400'>
+                        className='w-full h-32 bg-transparent outline-none border-2 rounded-md pl-2 border-teal-600 border-opacity-70 hover:border-teal-500 transition-all focus:border-teal-400 text-slate-200 placeholder:text-slate-400'>
 
                     </textarea>
                 </div>
