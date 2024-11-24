@@ -1,7 +1,7 @@
-import hotelImage from "./hotel_booking.png";
-import artistImage from './artist_management.png';
-import blogImage from './blogApp_Image.png';
-import convoImage from './Convo.png';
+import hotelImage from "./images/hotel_booking.png";
+import artistImage from './images/artist_management.png';
+import blogImage from './images/blogApp_Image.png';
+import convoImage from './images/Convo.png';
 
 
 export const images = {
