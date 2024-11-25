@@ -25,7 +25,7 @@ const Content = () => {
                 </div>
                 <div className="mb-10 lg:mb-24 mt-4 border border-slate-400/20 rounded-xl shadow-none transition-shadow duration-300 ease-in-out hover:shadow-lg hover:shadow-black/30">
                     <div className="rounded-xl overflow-hidden">
-                        <img className="h-auto md:max-w-sm m-auto object-contain p-4 grayscale hover:grayscale-0 transition-all" src={my_photo} alt="" />
+                        <img className="h-auto md:max-w-sm m-auto object-contain p-4 grayscale hover:grayscale-0 ease-out duration-500" src={my_photo} alt="" />
                     </div>
                 </div>
 
