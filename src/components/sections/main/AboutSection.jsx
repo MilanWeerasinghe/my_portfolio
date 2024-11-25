@@ -5,10 +5,10 @@ const About = () => {
         <div>
 
             <p className='mb-4'>
-                I'm 4th-year Computer Science undergraduate at the University of Sri Jayewardenepura, Sri Lanka, deeply passionate
+                I'm a 4th-year Computer Science undergraduate at the University of Sri Jayewardenepura, Sri Lanka, deeply passionate
                 about building impactful software and leveraging technology to solve real-world problems. My project
                 experience spans various applications, from developing a simple <a className="highlight-text" 
-                href="https://github.com/MilanWeerasinghe/MusicApp">artist management system</a> to
+                href="https://github.com/MilanWeerasinghe/MusicApp" target='_blank' rel='noreferrer noopener'>artist management system</a> to
                 microservice-based solutions for hotel booking management.
             </p>
 
