@@ -50,7 +50,7 @@ const Content = () => {
             </section>
             <footer>
                 <code className='text-center lg:text-left'>
-                    <h3 className='text-sm text-slate-400 text-opacity-50 tracking-tight'>Designed by Milan Weerasinghe <br />Built with <b>React.js</b> and <b>Tailwind CSS</b>, deployed with <b>Vercel</b>.<br /><span className='text-xl'>©</span> 2024</h3>
+                    <h3 className='text-sm text-slate-400 text-opacity-50 tracking-tight'>Designed by Milan Weerasinghe <br />Built with <b>React.js</b> and <b>Tailwind CSS</b>, deployed with <b>Vercel</b>.<br /><span className='text-xl'>©</span> 2025</h3>
                 </code>
             </footer>
         </ContentLayout>
